@@ -2,6 +2,7 @@ using System;
 
 class MealTime
 {
+  // First iteration
   // static void Main()
   // {
     // Console.WriteLine("What did you eat for breakfast?");
@@ -16,6 +17,7 @@ class MealTime
     // string yourDinner = Console.ReadLine();
     // Console.WriteLine("You had " + yourDinner + " for dinner.\n");
 
+    // Second iteration
     // static void AskWhatYouAteFor(string meal)
     // {
     //   Console.WriteLine("What did you for " + meal + "?");
@@ -35,6 +37,7 @@ class MealTime
     //   string yourDinner = Console.ReadLine();
     //   Console.WriteLine("You had " + yourDinner + " for dinner.\n");
 
+    // Third iteration
     static void Main()
     {
       AskWhatYouAteFor("breakfast");
